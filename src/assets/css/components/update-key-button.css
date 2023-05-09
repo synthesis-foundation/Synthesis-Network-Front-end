@@ -1,0 +1,15 @@
+.update-key-btn {
+    width: 30px;
+    height: 30px;
+    background-color: #42FF00;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+}
+
+.update-key-btn span {
+    position: relative;
+    top: 2px;
+}

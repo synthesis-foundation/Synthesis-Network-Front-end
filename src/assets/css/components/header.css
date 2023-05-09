@@ -1,0 +1,14 @@
+.header {
+    background-color: #3C3C3C;
+    width: 100%;
+    height: 46px;
+    display: flex;
+    align-items: center;
+}
+
+.page-title {
+    font-weight: 400;
+    font-size: 24px;
+    justify-self: left;
+    margin-left: 109px;
+}

@@ -1,6 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   margin: 0;
   padding: 0;
   width: 430px;
   height: 932px;
+  font-family: "PT Sans", sans-serif;
+  color: white;
 }

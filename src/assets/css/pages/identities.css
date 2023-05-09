@@ -1,0 +1,13 @@
+.identities__heading-block {
+    width: 100%;
+    height: 49px;
+    margin-top: 44px;
+    background-color: #4D4D4D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.identities__heading {
+    font-size: 24px;
+}
