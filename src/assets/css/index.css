@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -10,4 +11,5 @@ body {
   height: 932px;
   font-family: "PT Sans", sans-serif;
   color: white;
+  position: relative;
 }
